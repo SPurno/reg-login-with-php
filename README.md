@@ -26,7 +26,7 @@ $ git clone https://github.com/SPurno/reg-login-with-php.git
 >if you want to change the name before creating the database you must have edit `connection.php` 
 >>6.  Replace the the host name as your *DBHOST* as `'locahost' or 'localhost:8080'`.
 >>7.  Import the **yourdata.zip** to your database.
->8.  Now go to `hocalhost/your-folder-name/index.php`
+>>8.  Now go to `hocalhost/your-folder-name/index.php`
 
 Enjoy your system by signup & then login to your admin panel
 
