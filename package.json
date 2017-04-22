@@ -1,0 +1,26 @@
+{
+  "name": "reg-login-with-php",
+  "version": "1.0.0",
+  "description": "login with php with mysql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPurno/reg-login-with-php.git"
+  },
+  "keywords": [
+    "php",
+    "mysql",
+    "innodb",
+    "html",
+    "css"
+  ],
+  "author": "Faruk Ahmed Any",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPurno/reg-login-with-php/issues"
+  },
+  "homepage": "https://github.com/SPurno/reg-login-with-php#readme"
+}
