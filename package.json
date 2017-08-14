@@ -1,7 +1,7 @@
 {
   "name": "reg-login-with-php",
   "version": "1.0.0",
-  "description": "login with php with mysql database",
+  "description": "login with php & mysql database",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
